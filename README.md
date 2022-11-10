@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZimaBlue1996
+- 👋 Hi, I’m @LiuHe
 - 👀 I’m interested in CS and EE
 - 🌱 I’m currently learning C,DataStructure,RTOS
 - 💞️ I’m looking to collaborate on ...
